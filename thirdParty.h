@@ -1,3 +1,4 @@
+#pragma once
 #include "Header.h"
 
 vector<string> split(string input, char delimiter);
